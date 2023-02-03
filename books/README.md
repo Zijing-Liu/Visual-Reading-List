@@ -1,7 +1,1 @@
-An book list application
-
-Structure:
-APP
-BookCreate BookList
-BookShow BookShow BookShow
-BookEdit BookEdit BookEdit
+A small application that affords creating a visual book list and deleting/editing curret book. Created with HTML,CSS,JavaScript and React.
